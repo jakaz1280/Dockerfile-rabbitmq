@@ -1,2 +1,1 @@
-# Dockerfile-rabbitmq
-rabbitmq
+
